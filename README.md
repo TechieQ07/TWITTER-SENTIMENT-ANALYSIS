@@ -1,4 +1,4 @@
-# TWITTER-SENTIMENT-ANALYSIS
+# TWITTER SENTIMENT ANALYSIS
 
 **Overview**
 > This project involves conducting sentiment analysis on Twitter data to gauge public opinion on specific topics or events using machine learning and natural language processing techniques.
